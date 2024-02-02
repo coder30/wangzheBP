@@ -1,0 +1,3070 @@
+{
+    "105": [
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.0539,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0457,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0442,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        }
+    ],
+    "106": [
+        {
+            "bkzHeroId": 527,
+            "bkzParam": 0.0569,
+            "szTitle": "蒙恬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d1ae42ea0b2447024a9869744dd1fd7c/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0274,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 192,
+            "bkzParam": 0.0257,
+            "szTitle": "黄忠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8807/6536495fa1d8513b19af58241594199b/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        }
+    ],
+    "107": [
+        {
+            "bkzHeroId": 528,
+            "bkzParam": 0.0407,
+            "szTitle": "澜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/affca4ea148e901e1979814d538c409c/0",
+            "szHeroType": "刺客",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0349,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 531,
+            "bkzParam": 0.0326,
+            "szTitle": "镜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/dc52a910bd96c75c2db8d6f1d4f9be2f/0",
+            "szHeroType": "刺客",
+            "tRank": "T2"
+        }
+    ],
+    "108": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0447,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 117,
+            "bkzParam": 0.0365,
+            "szTitle": "钟无艳",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8979/fad5f863d038ec82578ad6d9e6e680ef/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0354,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "109": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0523,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0432,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 175,
+            "bkzParam": 0.0402,
+            "szTitle": "钟馗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/d9f7b6d3b6633c605c41c2785c0c3d3f/0",
+            "szHeroType": "辅助/法师",
+            "tRank": "T0"
+        }
+    ],
+    "110": [
+        {
+            "bkzHeroId": 527,
+            "bkzParam": 0.0718,
+            "szTitle": "蒙恬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d1ae42ea0b2447024a9869744dd1fd7c/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 518,
+            "bkzParam": 0.0496,
+            "szTitle": "马超",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1baa21ac0fc0de0672eb63ee0d456ab9/0",
+            "szHeroType": "战士/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 139,
+            "bkzParam": 0.0473,
+            "szTitle": "老夫子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8506/e31d027f2a576727eb9cbadb3140046c/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "111": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0535,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 525,
+            "bkzParam": 0.0259,
+            "szTitle": "鲁班大师",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/083e1e10b2053680c7faaab9af4e6f4a/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0189,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "112": [
+        {
+            "bkzHeroId": 177,
+            "bkzParam": 0.0381,
+            "szTitle": "成吉思汗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/aaa9fd17ab50440e9338080cf2c48d6f/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 170,
+            "bkzParam": 0.0363,
+            "szTitle": "刘备",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8818/1a882290a7041c13f4a64781bdbde114/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 110,
+            "bkzParam": 0.0353,
+            "szTitle": "嬴政",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/2923f2718309f8ae0904130225c980fa/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "113": [
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0875,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 141,
+            "bkzParam": 0.0824,
+            "szTitle": "貂蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/644f0ca92ff377159707446451cfe010/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 501,
+            "bkzParam": 0.0807,
+            "szTitle": "明世隐",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/21757/724c3846c9c3ce6014c9770fb2c76686/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "114": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0437,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 133,
+            "bkzParam": 0.033,
+            "szTitle": "狄仁杰",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5795/6b872b1bc7c883a0ec79ae7336a3cf21/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 132,
+            "bkzParam": 0.0312,
+            "szTitle": "马可波罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1307/98ca31544a8ad9befc6c57643596ba31/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "115": [
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.066,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0535,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 139,
+            "bkzParam": 0.0515,
+            "szTitle": "老夫子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8506/e31d027f2a576727eb9cbadb3140046c/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "116": [
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.1334,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 195,
+            "bkzParam": 0.066,
+            "szTitle": "百里玄策",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8135/931bf0fe647aef7f60f3fd382e05962d/0",
+            "szHeroType": "刺客",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 173,
+            "bkzParam": 0.0532,
+            "szTitle": "李元芳",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7704/20bb4b99d17b62df85def87f2f93f107/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "117": [
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.0524,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0436,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0392,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "118": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0654,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 139,
+            "bkzParam": 0.037,
+            "szTitle": "老夫子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8506/e31d027f2a576727eb9cbadb3140046c/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0358,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        }
+    ],
+    "119": [
+        {
+            "bkzHeroId": 175,
+            "bkzParam": 0.0445,
+            "szTitle": "钟馗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/d9f7b6d3b6633c605c41c2785c0c3d3f/0",
+            "szHeroType": "辅助/法师",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 121,
+            "bkzParam": 0.0429,
+            "szTitle": "芈月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7435/674bb301a917af4da489a4ac1323cbc0/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 127,
+            "bkzParam": 0.0424,
+            "szTitle": "甄姬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9073/67972a2516caae267d0c146532d8c863/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "120": [
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.0651,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 124,
+            "bkzParam": 0.0528,
+            "szTitle": "周瑜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8810/f462ff5a1e0c453b93b912465bbc4c0d/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0461,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        }
+    ],
+    "121": [
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.1037,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.0831,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 125,
+            "bkzParam": 0.0708,
+            "szTitle": "元歌",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4682/642bda2c715acfc663026124e9b3450f/0",
+            "szHeroType": "刺客",
+            "tRank": "T3"
+        }
+    ],
+    "123": [
+        {
+            "bkzHeroId": 518,
+            "bkzParam": 0.0669,
+            "szTitle": "马超",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1baa21ac0fc0de0672eb63ee0d456ab9/0",
+            "szHeroType": "战士/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 507,
+            "bkzParam": 0.0448,
+            "szTitle": "李信",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/25372/15c9730359a66621d0930250c8e7870e/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 131,
+            "bkzParam": 0.0441,
+            "szTitle": "李白",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/11f99a049c7f5935a04ff1d22ad45015/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        }
+    ],
+    "124": [
+        {
+            "bkzHeroId": 545,
+            "bkzParam": 0.0397,
+            "szTitle": "莱西奥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f5e1447c66afa8b255d9d417b5df2fd5/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 121,
+            "bkzParam": 0.036,
+            "szTitle": "芈月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7435/674bb301a917af4da489a4ac1323cbc0/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 542,
+            "bkzParam": 0.03,
+            "szTitle": "暃",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15009/cbb41e30ed905516495c5d3664aa80a3/0",
+            "szHeroType": "刺客",
+            "tRank": "T3"
+        }
+    ],
+    "125": [
+        {
+            "bkzHeroId": 518,
+            "bkzParam": 0.0581,
+            "szTitle": "马超",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1baa21ac0fc0de0672eb63ee0d456ab9/0",
+            "szHeroType": "战士/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.0535,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0404,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "126": [
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.0523,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.0401,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 523,
+            "bkzParam": 0.0344,
+            "szTitle": "西施",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/79c64e79fe04a66eb4b54666653a281a/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "127": [
+        {
+            "bkzHeroId": 131,
+            "bkzParam": 0.0524,
+            "szTitle": "李白",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/11f99a049c7f5935a04ff1d22ad45015/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.0441,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0398,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "128": [
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0457,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0386,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.038,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "129": [
+        {
+            "bkzHeroId": 537,
+            "bkzParam": 0.0943,
+            "szTitle": "司空震",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/e4c2c929f2f8d4a45ae4d86c9f5d14e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0919,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.0818,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "130": [
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0594,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0483,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 152,
+            "bkzParam": 0.0416,
+            "szTitle": "王昭君",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10914/97447ccb117f420b1f38d05e65bc8f42/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "131": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0505,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 156,
+            "bkzParam": 0.0501,
+            "szTitle": "张良",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8511/c462b0e7420d9ed94f3e74745765dbaa/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 179,
+            "bkzParam": 0.0419,
+            "szTitle": "女娲",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/29314/a7b1817459a2216e2583e74b7c11fbb8/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "132": [
+        {
+            "bkzHeroId": 505,
+            "bkzParam": 0.059,
+            "szTitle": "瑶",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/fde7ce906bc4d979f7d0121f0d28ea40/0",
+            "szHeroType": "辅助",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 519,
+            "bkzParam": 0.059,
+            "szTitle": "敖隐",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/40f6cc26659ef47931033e6816b5f35f/0",
+            "szHeroType": "射手",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0521,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        }
+    ],
+    "133": [
+        {
+            "bkzHeroId": 190,
+            "bkzParam": 0.0492,
+            "szTitle": "诸葛亮",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/09b2f1bc3bb4e65711c3fe816e37dc45/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0457,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 191,
+            "bkzParam": 0.0424,
+            "szTitle": "大乔",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8495/ef511401991fc729a1c63dc903d475e0/0",
+            "szHeroType": "辅助",
+            "tRank": "T0"
+        }
+    ],
+    "134": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0564,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0543,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0496,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "135": [
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.035,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0274,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 523,
+            "bkzParam": 0.0232,
+            "szTitle": "西施",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/79c64e79fe04a66eb4b54666653a281a/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "136": [
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0776,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0669,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 505,
+            "bkzParam": 0.0405,
+            "szTitle": "瑶",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/fde7ce906bc4d979f7d0121f0d28ea40/0",
+            "szHeroType": "辅助",
+            "tRank": "T0"
+        }
+    ],
+    "137": [
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.1064,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 171,
+            "bkzParam": 0.0704,
+            "szTitle": "张飞",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8433/28ea4aa382bda7aafb1d85887854e253/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 128,
+            "bkzParam": 0.0692,
+            "szTitle": "曹操",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7413/6bdd17d26461c8175fa72c3c0b074506/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "139": [
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0767,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 126,
+            "bkzParam": 0.0645,
+            "szTitle": "夏侯惇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4918/47502dc25eed40f78d00e35ff3bc00be/0",
+            "szHeroType": "坦克/战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 114,
+            "bkzParam": 0.0494,
+            "szTitle": "刘禅",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5826/dcfd6b775be0c688912c2a7c8d92d4df/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "140": [
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0606,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 564,
+            "bkzParam": 0.0544,
+            "szTitle": "姬小满",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/58951dcd94c4135b72413930f3d5516e/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.053,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "141": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.1256,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 156,
+            "bkzParam": 0.0585,
+            "szTitle": "张良",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8511/c462b0e7420d9ed94f3e74745765dbaa/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 501,
+            "bkzParam": 0.0465,
+            "szTitle": "明世隐",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/21757/724c3846c9c3ce6014c9770fb2c76686/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "142": [
+        {
+            "bkzHeroId": 518,
+            "bkzParam": 0.0389,
+            "szTitle": "马超",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1baa21ac0fc0de0672eb63ee0d456ab9/0",
+            "szHeroType": "战士/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.035,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 522,
+            "bkzParam": 0.0328,
+            "szTitle": "曜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/c1b914a49bffb50b6da0da921e7be9aa/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "144": [
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0756,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0577,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.0513,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "146": [
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0598,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0597,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.0552,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        }
+    ],
+    "148": [
+        {
+            "bkzHeroId": 513,
+            "bkzParam": 0.0784,
+            "szTitle": "上官婉儿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/3375/ed46429c9d07a40af82ca8da712b48f5/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 125,
+            "bkzParam": 0.055,
+            "szTitle": "元歌",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4682/642bda2c715acfc663026124e9b3450f/0",
+            "szHeroType": "刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 131,
+            "bkzParam": 0.0523,
+            "szTitle": "李白",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/11f99a049c7f5935a04ff1d22ad45015/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        }
+    ],
+    "149": [
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0765,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0512,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0468,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "150": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0489,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 190,
+            "bkzParam": 0.0446,
+            "szTitle": "诸葛亮",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/09b2f1bc3bb4e65711c3fe816e37dc45/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0364,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "152": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0703,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.043,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 142,
+            "bkzParam": 0.0332,
+            "szTitle": "安琪拉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8667/94d16d5e959361827576db171a94cf26/0",
+            "szHeroType": "法师",
+            "tRank": "T0"
+        }
+    ],
+    "153": [
+        {
+            "bkzHeroId": 173,
+            "bkzParam": 0.068,
+            "szTitle": "李元芳",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7704/20bb4b99d17b62df85def87f2f93f107/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 196,
+            "bkzParam": 0.0661,
+            "szTitle": "百里守约",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14747/afde6bfb99a99552c63dae7dafc79a1a/0",
+            "szHeroType": "射手/刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 141,
+            "bkzParam": 0.0582,
+            "szTitle": "貂蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/644f0ca92ff377159707446451cfe010/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T1"
+        }
+    ],
+    "154": [
+        {
+            "bkzHeroId": 128,
+            "bkzParam": 0.0307,
+            "szTitle": "曹操",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7413/6bdd17d26461c8175fa72c3c0b074506/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 156,
+            "bkzParam": 0.0283,
+            "szTitle": "张良",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8511/c462b0e7420d9ed94f3e74745765dbaa/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0265,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "155": [
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.0748,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 525,
+            "bkzParam": 0.0644,
+            "szTitle": "鲁班大师",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/083e1e10b2053680c7faaab9af4e6f4a/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0639,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "156": [
+        {
+            "bkzHeroId": 504,
+            "bkzParam": 0.0597,
+            "szTitle": "米莱狄",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/688/7c65bb2b2bdcd6b6330509040b2f7a47/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0564,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 136,
+            "bkzParam": 0.0541,
+            "szTitle": "武则天",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/db0140965ef68db5e9a50c3356fd3a62/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "157": [
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0703,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0693,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 504,
+            "bkzParam": 0.0677,
+            "szTitle": "米莱狄",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/688/7c65bb2b2bdcd6b6330509040b2f7a47/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "159": [
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.026,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 127,
+            "bkzParam": 0.0259,
+            "szTitle": "甄姬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9073/67972a2516caae267d0c146532d8c863/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 167,
+            "bkzParam": 0.025,
+            "szTitle": "孙悟空",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7408/4fa886de819280ba7301c10423e0287c/0",
+            "szHeroType": "刺客/战士",
+            "tRank": "T2"
+        }
+    ],
+    "162": [
+        {
+            "bkzHeroId": 167,
+            "bkzParam": 0.0521,
+            "szTitle": "孙悟空",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7408/4fa886de819280ba7301c10423e0287c/0",
+            "szHeroType": "刺客/战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 131,
+            "bkzParam": 0.0482,
+            "szTitle": "李白",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/11f99a049c7f5935a04ff1d22ad45015/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 174,
+            "bkzParam": 0.0365,
+            "szTitle": "虞姬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/ee7ca62e1ccf6fb7c563b3fdd46b2b97/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "163": [
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0277,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0252,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 144,
+            "bkzParam": 0.0226,
+            "szTitle": "程咬金",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8515/17ddeae55c98704f70699d615fd217aa/0",
+            "szHeroType": "坦克/战士",
+            "tRank": "T2"
+        }
+    ],
+    "166": [
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0507,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0362,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.0347,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "167": [
+        {
+            "bkzHeroId": 174,
+            "bkzParam": 0.0549,
+            "szTitle": "虞姬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/ee7ca62e1ccf6fb7c563b3fdd46b2b97/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0516,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 114,
+            "bkzParam": 0.0446,
+            "szTitle": "刘禅",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5826/dcfd6b775be0c688912c2a7c8d92d4df/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "168": [
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0648,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 141,
+            "bkzParam": 0.0546,
+            "szTitle": "貂蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/644f0ca92ff377159707446451cfe010/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.052,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "169": [
+        {
+            "bkzHeroId": 168,
+            "bkzParam": 0.0384,
+            "szTitle": "牛魔",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/f55c6124c5ec84453e63cdc768d2653a/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 524,
+            "bkzParam": 0.033,
+            "szTitle": "蒙犽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/27da3c473cf66fd29e4dddf039b42631/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0319,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        }
+    ],
+    "170": [
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0733,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 190,
+            "bkzParam": 0.0535,
+            "szTitle": "诸葛亮",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/09b2f1bc3bb4e65711c3fe816e37dc45/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0511,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "171": [
+        {
+            "bkzHeroId": 524,
+            "bkzParam": 0.0452,
+            "szTitle": "蒙犽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/27da3c473cf66fd29e4dddf039b42631/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.042,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.0372,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        }
+    ],
+    "173": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0871,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0385,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 121,
+            "bkzParam": 0.0322,
+            "szTitle": "芈月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7435/674bb301a917af4da489a4ac1323cbc0/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T2"
+        }
+    ],
+    "174": [
+        {
+            "bkzHeroId": 190,
+            "bkzParam": 0.0508,
+            "szTitle": "诸葛亮",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/09b2f1bc3bb4e65711c3fe816e37dc45/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.047,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 513,
+            "bkzParam": 0.0453,
+            "szTitle": "上官婉儿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/3375/ed46429c9d07a40af82ca8da712b48f5/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T3"
+        }
+    ],
+    "175": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0694,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 133,
+            "bkzParam": 0.068,
+            "szTitle": "狄仁杰",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5795/6b872b1bc7c883a0ec79ae7336a3cf21/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0477,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        }
+    ],
+    "176": [
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0678,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0558,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 527,
+            "bkzParam": 0.0554,
+            "szTitle": "蒙恬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d1ae42ea0b2447024a9869744dd1fd7c/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T3"
+        }
+    ],
+    "177": [
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0481,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 525,
+            "bkzParam": 0.0438,
+            "szTitle": "鲁班大师",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/083e1e10b2053680c7faaab9af4e6f4a/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 544,
+            "bkzParam": 0.0383,
+            "szTitle": "赵怀真",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/443deeb535d5aee74d53a7f989533705/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "178": [
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0525,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.0418,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0336,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "179": [
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.094,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 157,
+            "bkzParam": 0.0742,
+            "szTitle": "不知火舞",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/93724f86972a048dd79a1bd63e45d5e8/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0715,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "180": [
+        {
+            "bkzHeroId": 121,
+            "bkzParam": 0.1007,
+            "szTitle": "芈月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7435/674bb301a917af4da489a4ac1323cbc0/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0998,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0843,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "182": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0604,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.0548,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0489,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        }
+    ],
+    "183": [
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0726,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0587,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0532,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        }
+    ],
+    "184": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.1016,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 189,
+            "bkzParam": 0.076,
+            "szTitle": "鬼谷子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14563/d26233cf98a53991a47114f16bfa41bc/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0612,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "186": [
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0561,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 112,
+            "bkzParam": 0.0492,
+            "szTitle": "鲁班七号",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9359/35a176e7df643f93380bff40a4d0dd1f/0",
+            "szHeroType": "射手",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 190,
+            "bkzParam": 0.0486,
+            "szTitle": "诸葛亮",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/09b2f1bc3bb4e65711c3fe816e37dc45/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        }
+    ],
+    "187": [
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0412,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.0399,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 548,
+            "bkzParam": 0.0397,
+            "szTitle": "戈娅",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8818/0220f7d3ac8f8be3ce1b5ba52169f476/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        }
+    ],
+    "189": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0697,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.0687,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 173,
+            "bkzParam": 0.063,
+            "szTitle": "李元芳",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7704/20bb4b99d17b62df85def87f2f93f107/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "190": [
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.0878,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0574,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0446,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "191": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0377,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0261,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.0232,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "192": [
+        {
+            "bkzHeroId": 175,
+            "bkzParam": 0.0708,
+            "szTitle": "钟馗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/d9f7b6d3b6633c605c41c2785c0c3d3f/0",
+            "szHeroType": "辅助/法师",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 189,
+            "bkzParam": 0.0583,
+            "szTitle": "鬼谷子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14563/d26233cf98a53991a47114f16bfa41bc/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 132,
+            "bkzParam": 0.0544,
+            "szTitle": "马可波罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1307/98ca31544a8ad9befc6c57643596ba31/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "193": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0375,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 116,
+            "bkzParam": 0.0371,
+            "szTitle": "阿轲",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9460/67c153b416a3b2bc2bb357dce2ed970c/0",
+            "szHeroType": "刺客",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 127,
+            "bkzParam": 0.0337,
+            "szTitle": "甄姬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9073/67972a2516caae267d0c146532d8c863/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "194": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0653,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0361,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0342,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        }
+    ],
+    "195": [
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0693,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 544,
+            "bkzParam": 0.0611,
+            "szTitle": "赵怀真",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/443deeb535d5aee74d53a7f989533705/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0498,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "196": [
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0424,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0386,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 108,
+            "bkzParam": 0.0369,
+            "szTitle": "墨子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/16705/2c1e1268484b18cae6a601bee52a4be9/0",
+            "szHeroType": "法师/战士",
+            "tRank": "T1"
+        }
+    ],
+    "197": [
+        {
+            "bkzHeroId": 504,
+            "bkzParam": 0.0595,
+            "szTitle": "米莱狄",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/688/7c65bb2b2bdcd6b6330509040b2f7a47/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0537,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0493,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        }
+    ],
+    "198": [
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.095,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 123,
+            "bkzParam": 0.0937,
+            "szTitle": "吕布",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/93792f60e47a84c23c0cf54988bb0cc8/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 152,
+            "bkzParam": 0.0423,
+            "szTitle": "王昭君",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10914/97447ccb117f420b1f38d05e65bc8f42/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "199": [
+        {
+            "bkzHeroId": 156,
+            "bkzParam": 0.0541,
+            "szTitle": "张良",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8511/c462b0e7420d9ed94f3e74745765dbaa/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.054,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0503,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "312": [
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0473,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 504,
+            "bkzParam": 0.0471,
+            "szTitle": "米莱狄",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/688/7c65bb2b2bdcd6b6330509040b2f7a47/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.043,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "501": [
+        {
+            "bkzHeroId": 189,
+            "bkzParam": 0.0802,
+            "szTitle": "鬼谷子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14563/d26233cf98a53991a47114f16bfa41bc/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 175,
+            "bkzParam": 0.0762,
+            "szTitle": "钟馗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/d9f7b6d3b6633c605c41c2785c0c3d3f/0",
+            "szHeroType": "辅助/法师",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 525,
+            "bkzParam": 0.0662,
+            "szTitle": "鲁班大师",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/083e1e10b2053680c7faaab9af4e6f4a/0",
+            "szHeroType": "辅助",
+            "tRank": "T3"
+        }
+    ],
+    "502": [
+        {
+            "bkzHeroId": 153,
+            "bkzParam": 0.0483,
+            "szTitle": "兰陵王",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/039e645fcf094441a34c3ca83f63ea2c/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 169,
+            "bkzParam": 0.0429,
+            "szTitle": "后羿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/19744/edcd319719e007d7a838cea03eb64fff/0",
+            "szHeroType": "射手",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 524,
+            "bkzParam": 0.0418,
+            "szTitle": "蒙犽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/27da3c473cf66fd29e4dddf039b42631/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        }
+    ],
+    "503": [
+        {
+            "bkzHeroId": 129,
+            "bkzParam": 0.0476,
+            "szTitle": "典韦",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/134284a05635e4635aadbb21cad79c31/0",
+            "szHeroType": "战士",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 126,
+            "bkzParam": 0.0349,
+            "szTitle": "夏侯惇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4918/47502dc25eed40f78d00e35ff3bc00be/0",
+            "szHeroType": "坦克/战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0234,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "504": [
+        {
+            "bkzHeroId": 115,
+            "bkzParam": 0.0668,
+            "szTitle": "高渐离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8560/f62ec489911afb3724a66b257c2d8fb7/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 148,
+            "bkzParam": 0.063,
+            "szTitle": "姜子牙",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7163/059993c04767a8031c5568d87d8eeef2/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 513,
+            "bkzParam": 0.0559,
+            "szTitle": "上官婉儿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/3375/ed46429c9d07a40af82ca8da712b48f5/0",
+            "szHeroType": "法师/刺客",
+            "tRank": "T3"
+        }
+    ],
+    "505": [
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0777,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0626,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0518,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "506": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0442,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0404,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0359,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        }
+    ],
+    "507": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0375,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 540,
+            "bkzParam": 0.0247,
+            "szTitle": "金蝉",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8468/8a7a614e0377ea32a3ffbc6a617dad4e/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 178,
+            "bkzParam": 0.0229,
+            "szTitle": "杨戬",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8840/a35a2fe487c99eeafa86681a5f54b445/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "508": [
+        {
+            "bkzHeroId": 153,
+            "bkzParam": 0.0837,
+            "szTitle": "兰陵王",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/039e645fcf094441a34c3ca83f63ea2c/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 116,
+            "bkzParam": 0.0792,
+            "szTitle": "阿轲",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9460/67c153b416a3b2bc2bb357dce2ed970c/0",
+            "szHeroType": "刺客",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 194,
+            "bkzParam": 0.0679,
+            "szTitle": "苏烈",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9003/b3011b575413dab0d315854e57d2d99f/0",
+            "szHeroType": "坦克/战士",
+            "tRank": "T3"
+        }
+    ],
+    "509": [
+        {
+            "bkzHeroId": 124,
+            "bkzParam": 0.131,
+            "szTitle": "周瑜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8810/f462ff5a1e0c453b93b912465bbc4c0d/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 152,
+            "bkzParam": 0.1222,
+            "szTitle": "王昭君",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10914/97447ccb117f420b1f38d05e65bc8f42/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 112,
+            "bkzParam": 0.1013,
+            "szTitle": "鲁班七号",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/9359/35a176e7df643f93380bff40a4d0dd1f/0",
+            "szHeroType": "射手",
+            "tRank": "T0"
+        }
+    ],
+    "510": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0826,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0566,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0446,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "511": [
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.055,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 514,
+            "bkzParam": 0.053,
+            "szTitle": "亚连",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/ddb42a2cd554df1b23312b817f3879e6/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0425,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "513": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.1074,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0927,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0544,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        }
+    ],
+    "514": [
+        {
+            "bkzHeroId": 518,
+            "bkzParam": 0.0774,
+            "szTitle": "马超",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1baa21ac0fc0de0672eb63ee0d456ab9/0",
+            "szHeroType": "战士/刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0529,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 125,
+            "bkzParam": 0.0487,
+            "szTitle": "元歌",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4682/642bda2c715acfc663026124e9b3450f/0",
+            "szHeroType": "刺客",
+            "tRank": "T3"
+        }
+    ],
+    "515": [
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0574,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 504,
+            "bkzParam": 0.0315,
+            "szTitle": "米莱狄",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/688/7c65bb2b2bdcd6b6330509040b2f7a47/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 169,
+            "bkzParam": 0.0308,
+            "szTitle": "后羿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/19744/edcd319719e007d7a838cea03eb64fff/0",
+            "szHeroType": "射手",
+            "tRank": "T0"
+        }
+    ],
+    "518": [
+        {
+            "bkzHeroId": 130,
+            "bkzParam": 0.0497,
+            "szTitle": "宫本武藏",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1bc9e50fed9e52b889422de69c904dcc/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 139,
+            "bkzParam": 0.049,
+            "szTitle": "老夫子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8506/e31d027f2a576727eb9cbadb3140046c/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0462,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "519": [
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0396,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0378,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 501,
+            "bkzParam": 0.0366,
+            "szTitle": "明世隐",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/21757/724c3846c9c3ce6014c9770fb2c76686/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "521": [
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.072,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0642,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0547,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "522": [
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0323,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0275,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0264,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "523": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0713,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 125,
+            "bkzParam": 0.0563,
+            "szTitle": "元歌",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/4682/642bda2c715acfc663026124e9b3450f/0",
+            "szHeroType": "刺客",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 153,
+            "bkzParam": 0.0545,
+            "szTitle": "兰陵王",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/039e645fcf094441a34c3ca83f63ea2c/0",
+            "szHeroType": "刺客",
+            "tRank": "T1"
+        }
+    ],
+    "524": [
+        {
+            "bkzHeroId": 140,
+            "bkzParam": 0.0727,
+            "szTitle": "关羽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/c17dceb85d420c5b89c08065af722c1b/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0622,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 132,
+            "bkzParam": 0.0621,
+            "szTitle": "马可波罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1307/98ca31544a8ad9befc6c57643596ba31/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        }
+    ],
+    "525": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0778,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 133,
+            "bkzParam": 0.0704,
+            "szTitle": "狄仁杰",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5795/6b872b1bc7c883a0ec79ae7336a3cf21/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 544,
+            "bkzParam": 0.0566,
+            "szTitle": "赵怀真",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/443deeb535d5aee74d53a7f989533705/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        }
+    ],
+    "527": [
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.1196,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0945,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 146,
+            "bkzParam": 0.0734,
+            "szTitle": "露娜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8664/cecc35b4b1dcbcec9d87bd636899c18e/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        }
+    ],
+    "528": [
+        {
+            "bkzHeroId": 529,
+            "bkzParam": 0.0383,
+            "szTitle": "盘古",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/1585/e2fc2d569f448be2dd24c6975e39a823/0",
+            "szHeroType": "战士",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0333,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 182,
+            "bkzParam": 0.033,
+            "szTitle": "干将莫邪",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201705m2/8af84239947202e1a623dbccc89d44db/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        }
+    ],
+    "529": [
+        {
+            "bkzHeroId": 524,
+            "bkzParam": 0.0918,
+            "szTitle": "蒙犽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/27da3c473cf66fd29e4dddf039b42631/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 170,
+            "bkzParam": 0.0592,
+            "szTitle": "刘备",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8818/1a882290a7041c13f4a64781bdbde114/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0426,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        }
+    ],
+    "531": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0547,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 119,
+            "bkzParam": 0.0357,
+            "szTitle": "扁鹊",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/f494f7d91796b0d3110a436d45745b32/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0294,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        }
+    ],
+    "533": [
+        {
+            "bkzHeroId": 191,
+            "bkzParam": 0.0962,
+            "szTitle": "大乔",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8495/ef511401991fc729a1c63dc903d475e0/0",
+            "szHeroType": "辅助",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 524,
+            "bkzParam": 0.0952,
+            "szTitle": "蒙犽",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/27da3c473cf66fd29e4dddf039b42631/0",
+            "szHeroType": "射手",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 563,
+            "bkzParam": 0.078,
+            "szTitle": "海诺",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/1fe4dba73f404a7909123079761acf57/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        }
+    ],
+    "534": [
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0405,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0388,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 523,
+            "bkzParam": 0.0366,
+            "szTitle": "西施",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/79c64e79fe04a66eb4b54666653a281a/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "536": [
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0418,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 166,
+            "bkzParam": 0.0278,
+            "szTitle": "亚瑟",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/7e2e2b53f70bb742c89d933be7993cf9/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 156,
+            "bkzParam": 0.0216,
+            "szTitle": "张良",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8511/c462b0e7420d9ed94f3e74745765dbaa/0",
+            "szHeroType": "法师",
+            "tRank": "T2"
+        }
+    ],
+    "537": [
+        {
+            "bkzHeroId": 508,
+            "bkzParam": 0.0834,
+            "szTitle": "伽罗",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/7224/97fe29801a7ccfaeacf8d225221e26d3/0",
+            "szHeroType": "射手",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 137,
+            "bkzParam": 0.0754,
+            "szTitle": "司马懿",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/2188/9ffbf6a82b74ddb445c22aca8b1f8841/0",
+            "szHeroType": "刺客/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 134,
+            "bkzParam": 0.0501,
+            "szTitle": "达摩",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/201703m3/24937c241df3f3dd7ae81270a45c12e5/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T3"
+        }
+    ],
+    "538": [
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0508,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        },
+        {
+            "bkzHeroId": 179,
+            "bkzParam": 0.047,
+            "szTitle": "女娲",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/29314/a7b1817459a2216e2583e74b7c11fbb8/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0413,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        }
+    ],
+    "540": [
+        {
+            "bkzHeroId": 193,
+            "bkzParam": 0.0617,
+            "szTitle": "铠",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/15601/c60e93e52074330cbd3e9d16a77ab7fd/0",
+            "szHeroType": "战士/坦克",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 139,
+            "bkzParam": 0.0573,
+            "szTitle": "老夫子",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8506/e31d027f2a576727eb9cbadb3140046c/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 506,
+            "bkzParam": 0.0556,
+            "szTitle": "云中君",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/57398f2bad41b98739c8e3f986b8b496/0",
+            "szHeroType": "刺客/战士",
+            "tRank": "T3"
+        }
+    ],
+    "542": [
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0659,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 564,
+            "bkzParam": 0.0401,
+            "szTitle": "姬小满",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/58951dcd94c4135b72413930f3d5516e/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 109,
+            "bkzParam": 0.0386,
+            "szTitle": "妲己",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8017/7d5de40cb089bfe12587f4dd2fed93d3/0",
+            "szHeroType": "法师",
+            "tRank": "T1"
+        }
+    ],
+    "544": [
+        {
+            "bkzHeroId": 533,
+            "bkzParam": 0.0456,
+            "szTitle": "阿古朵",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/673a66397cc06407a50eb3957c54ae38/0",
+            "szHeroType": "坦克/辅助",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 124,
+            "bkzParam": 0.0455,
+            "szTitle": "周瑜",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8810/f462ff5a1e0c453b93b912465bbc4c0d/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 113,
+            "bkzParam": 0.0418,
+            "szTitle": "庄周",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8970/a09676f77fcebee915bc08182979ceb8/0",
+            "szHeroType": "辅助/坦克",
+            "tRank": "T0"
+        }
+    ],
+    "545": [
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0595,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.0533,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0478,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        }
+    ],
+    "548": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.0769,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 180,
+            "bkzParam": 0.0616,
+            "szTitle": "哪吒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8994/c0b302e626a4192e745bff473a33dab4/0",
+            "szHeroType": "战士",
+            "tRank": "T2"
+        },
+        {
+            "bkzHeroId": 521,
+            "bkzParam": 0.058,
+            "szTitle": "海月",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/10304/cd8618d6ceb4dd283b0767f583455e70/0",
+            "szHeroType": "法师",
+            "tRank": "T3"
+        }
+    ],
+    "563": [
+        {
+            "bkzHeroId": 509,
+            "bkzParam": 0.1036,
+            "szTitle": "盾山",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/5403/ef3394bbec80e3c402771627c73b5a9d/0",
+            "szHeroType": "辅助",
+            "tRank": "T1"
+        },
+        {
+            "bkzHeroId": 198,
+            "bkzParam": 0.0496,
+            "szTitle": "梦奇",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/d03303cccabb19a0f3ccf68ffa5472e3/0",
+            "szHeroType": "战士/法师",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 199,
+            "bkzParam": 0.0462,
+            "szTitle": "公孙离",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/14259/0a8ca6dc16b0c8fc1d03f88676e9ed73/0",
+            "szHeroType": "射手",
+            "tRank": "T2"
+        }
+    ],
+    "564": [
+        {
+            "bkzHeroId": 515,
+            "bkzParam": 0.0425,
+            "szTitle": "嫦娥",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/8459/dd706439431e9e0cee1bbeb4eb536e25/0",
+            "szHeroType": "法师/坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 120,
+            "bkzParam": 0.0401,
+            "szTitle": "白起",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/0/77f6421946b612656ecfe2e32b29d97a/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        },
+        {
+            "bkzHeroId": 511,
+            "bkzParam": 0.0391,
+            "szTitle": "猪八戒",
+            "szHeroIcon": "https://shp.qpic.cn/tgos/756/00f19b27cf562d8b824f31ee235c46d7/0",
+            "szHeroType": "坦克",
+            "tRank": "T3"
+        }
+    ]
+}
